@@ -16,7 +16,7 @@ A laboratory demonstration of a secure chat system which integrates **RSA Encryp
 secure-chat/
 ├── server.py          # Manages client connections, public key distribution, and message relaying
 ├── client.py          # Tkinter-based GUI client for sending and receiving encrypted messages
-├── crypto_utils.py    # Handles RSA key generation, encryption, and decryption functions
+├── encrypt.py    # Handles RSA key generation, encryption, and decryption functions
 ├── requirements.txt   # Lists required Python dependencies (e.g., cryptography)
 └── README.md          # Project documentation
 ```
